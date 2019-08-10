@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<project version="4">
+
+
+-<component name="AndroidLayouts">
+
+
+-<shared>
+
+<config/>
+
+</shared>
+
+</component>
+
+
+-<component name="AndroidLogFilters">
+
+<option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application"/>
+
+</component>
+
+
+-<component name="ChangeListManager">
+
+<list name="Default Changelist" comment="" id="7d0692f7-4fa7-4444-8895-c9299f528c03" default="true"/>
+
+<option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true"/>
+
+<option name="SHOW_DIALOG" value="false"/>
+
+<option name="HIGHLIGHT_CONFLICTS" value="true"/>
+
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+
+<option name="LAST_RESOLUTION" value="IGNORE"/>
+
+</component>
+
+
+-<component name="ExternalProjectsData">
+
+
+-<projectState path="$PROJECT_DIR$">
+
+<ProjectState/>
+
+</projectState>
+
+</component>
+
+
+-<component name="ExternalProjectsManager">
+
+
+-<system id="GRADLE">
+
+
+-<state>
+
+
+-<task path="$PROJECT_DIR$">
+
+<activation/>
+
+</task>
+
+
+-<projects_view>
+
+
+-<tree_state>
+
+
+-<expand>
+
+
+-<path>
+
+<item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+
+<item name="Womenera" type="f1a62948:ProjectNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+
+<item name="Womenera" type="f1a62948:ProjectNode"/>
+
+<item name="Womenera" type="2d1252cf:ModuleNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+
+<item name="Womenera" type="f1a62948:ProjectNode"/>
+
+<item name="Womenera" type="2d1252cf:ModuleNode"/>
+
+<item name="Tasks" type="e4a08cd1:TasksNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="" type="6a2764b6:ExternalProjectsStructure$RootNode"/>
+
+<item name="Womenera" type="f1a62948:ProjectNode"/>
+
+<item name="Womenera" type="2d1252cf:ModuleNode"/>
+
+<item name="Tasks" type="e4a08cd1:TasksNode"/>
+
+<item name="android" type="c8890929:TasksNode$1"/>
+
+</path>
+
+</expand>
+
+<select/>
+
+</tree_state>
+
+</projects_view>
+
+</state>
+
+</system>
+
+</component>
+
+
+-<component name="FileEditorManager">
+
+
+-<leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+
+
+-<file current-in-tab="false" pinned="false">
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_products.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="204">
+
+<caret selection-end-column="46" selection-end-line="19" selection-start-column="46" selection-start-line="19" column="46" line="19"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+</file>
+
+
+-<file current-in-tab="true" pinned="false">
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/Products.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="70">
+
+<caret selection-end-column="5" selection-end-line="84" selection-start-column="5" selection-start-line="84" column="5" line="84" lean-forward="true"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+</file>
+
+</leaf>
+
+</component>
+
+
+-<component name="FileTemplateManagerImpl">
+
+
+-<option name="RECENT_TEMPLATES">
+
+
+-<list>
+
+<option value="layoutResourceFile_vertical"/>
+
+<option value="Class"/>
+
+</list>
+
+</option>
+
+</component>
+
+
+-<component name="IdeDocumentHistory">
+
+
+-<option name="CHANGED_PATHS">
+
+
+-<list>
+
+<option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/Home.kt"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/MainActivity.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/activity_registe_user.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/Menswear.java"/>
+
+<option value="$PROJECT_DIR$/build.gradle"/>
+
+<option value="$PROJECT_DIR$/app/build.gradle"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/model/User.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/RegisterUser.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/ProductModel.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/MensRecyclerAdapter.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/activity_menswear.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/activity_watches.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/ProductsAdapter.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/product_list.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/Bags.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/activity_mobiles.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/activity_womens_wear.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/Home.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/WomensWear.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/Mobiles.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/Watches.java"/>
+
+<option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/res/layout/activity_products.xml"/>
+
+<option value="$PROJECT_DIR$/app/src/main/java/com/example/womenera/Products.java"/>
+
+</list>
+
+</option>
+
+</component>
+
+
+-<component name="ProjectFrameBounds" extendedState="6">
+
+<option name="x" value="-7"/>
+
+<option name="width" value="974"/>
+
+<option name="height" value="1047"/>
+
+</component>
+
+
+-<component name="ProjectView">
+
+
+-<navigator version="1" proportions="">
+
+<foldersAlwaysOnTop value="true"/>
+
+</navigator>
+
+
+-<panes>
+
+
+-<pane id="ProjectPane">
+
+
+-<subPane>
+
+
+-<expand>
+
+
+-<path>
+
+<item name="Womenera" type="b2602c69:ProjectViewProjectNode"/>
+
+<item name="Womenera" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="Womenera" type="b2602c69:ProjectViewProjectNode"/>
+
+<item name="Womenera" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode"/>
+
+<item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode"/>
+
+</path>
+
+</expand>
+
+<select/>
+
+</subPane>
+
+</pane>
+
+<pane id="Scope"/>
+
+<pane id="PackagesPane"/>
+
+
+-<pane id="AndroidView">
+
+
+-<subPane>
+
+
+-<expand>
+
+
+-<path>
+
+<item name="Womenera" type="1abcf292:AndroidViewProjectNode"/>
+
+<item name="app" type="feadf853:AndroidModuleNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="Womenera" type="1abcf292:AndroidViewProjectNode"/>
+
+<item name="app" type="feadf853:AndroidModuleNode"/>
+
+<item name="manifests" type="f94875db:AndroidManifestsGroupNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="Womenera" type="1abcf292:AndroidViewProjectNode"/>
+
+<item name="app" type="feadf853:AndroidModuleNode"/>
+
+<item name="java" type="edd41e36:AndroidSourceTypeNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="Womenera" type="1abcf292:AndroidViewProjectNode"/>
+
+<item name="app" type="feadf853:AndroidModuleNode"/>
+
+<item name="java" type="edd41e36:AndroidSourceTypeNode"/>
+
+<item name="com" type="cbb59c9e:AndroidPsiDirectoryNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="Womenera" type="1abcf292:AndroidViewProjectNode"/>
+
+<item name="app" type="feadf853:AndroidModuleNode"/>
+
+<item name="java" type="edd41e36:AndroidSourceTypeNode"/>
+
+<item name="com" type="cbb59c9e:AndroidPsiDirectoryNode"/>
+
+<item name="example" type="462c0819:PsiDirectoryNode"/>
+
+</path>
+
+
+-<path>
+
+<item name="Womenera" type="1abcf292:AndroidViewProjectNode"/>
+
+<item name="app" type="feadf853:AndroidModuleNode"/>
+
+<item name="java" type="edd41e36:AndroidSourceTypeNode"/>
+
+<item name="com" type="cbb59c9e:AndroidPsiDirectoryNode"/>
+
+<item name="example" type="462c0819:PsiDirectoryNode"/>
+
+<item name="womenera" type="462c0819:PsiDirectoryNode"/>
+
+</path>
+
+</expand>
+
+<select/>
+
+</subPane>
+
+</pane>
+
+</panes>
+
+</component>
+
+
+-<component name="PropertiesComponent">
+
+<property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk"/>
+
+<property name="device.picker.selection" value="J4AAB760T969ZMD"/>
+
+<property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable"/>
+
+<property name="not.eligible.for.single.variant.sync" value="true"/>
+
+</component>
+
+
+-<component name="RecentsManager">
+
+
+-<key name="android.template.packageName">
+
+<recent name="com.example.womenera"/>
+
+</key>
+
+
+-<key name="CopyFile.RECENT_KEYS">
+
+<recent name="C:\Users\admin\AndroidStudioProjects\Womenera\app\src\main\res\drawable"/>
+
+<recent name="C:\Users\admin\AndroidStudioProjects\Womenera\app"/>
+
+</key>
+
+</component>
+
+
+-<component name="RunDashboard">
+
+
+-<option name="ruleStates">
+
+
+-<list>
+
+
+-<RuleState>
+
+<option name="name" value="ConfigurationTypeDashboardGroupingRule"/>
+
+</RuleState>
+
+
+-<RuleState>
+
+<option name="name" value="StatusDashboardGroupingRule"/>
+
+</RuleState>
+
+</list>
+
+</option>
+
+</component>
+
+
+-<component name="RunManager" selected="Android App.app">
+
+
+-<configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+
+<option name="TEST_OBJECT" value="class"/>
+
+<option name="WORKING_DIRECTORY" value="$MODULE_DIR$"/>
+
+
+-<method v="2">
+
+<option name="Android.Gradle.BeforeRunTask" enabled="true"/>
+
+</method>
+
+</configuration>
+
+
+-<configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+
+<module name="app"/>
+
+<option name="DEPLOY" value="true"/>
+
+<option name="DEPLOY_APK_FROM_BUNDLE" value="false"/>
+
+<option name="DEPLOY_AS_INSTANT" value="false"/>
+
+<option name="ARTIFACT_NAME" value=""/>
+
+<option name="PM_INSTALL_OPTIONS" value=""/>
+
+<option name="DYNAMIC_FEATURES_DISABLED_LIST" value=""/>
+
+<option name="ACTIVITY_EXTRA_FLAGS" value=""/>
+
+<option name="MODE" value="default_activity"/>
+
+<option name="CLEAR_LOGCAT" value="false"/>
+
+<option name="SHOW_LOGCAT_AUTOMATICALLY" value="false"/>
+
+<option name="SKIP_NOOP_APK_INSTALLATIONS" value="true"/>
+
+<option name="FORCE_STOP_RUNNING_APP" value="true"/>
+
+<option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG"/>
+
+<option name="USE_LAST_SELECTED_DEVICE" value="true"/>
+
+<option name="PREFERRED_AVD" value=""/>
+
+<option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1"/>
+
+<option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value=""/>
+
+<option name="DEBUGGER_TYPE" value="Auto"/>
+
+
+-<Auto>
+
+<option name="USE_JAVA_AWARE_DEBUGGER" value="false"/>
+
+<option name="SHOW_STATIC_VARS" value="true"/>
+
+<option name="WORKING_DIR" value=""/>
+
+<option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets"/>
+
+<option name="SHOW_OPTIMIZED_WARNING" value="true"/>
+
+</Auto>
+
+
+-<Hybrid>
+
+<option name="USE_JAVA_AWARE_DEBUGGER" value="false"/>
+
+<option name="SHOW_STATIC_VARS" value="true"/>
+
+<option name="WORKING_DIR" value=""/>
+
+<option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets"/>
+
+<option name="SHOW_OPTIMIZED_WARNING" value="true"/>
+
+</Hybrid>
+
+<Java/>
+
+
+-<Native>
+
+<option name="USE_JAVA_AWARE_DEBUGGER" value="false"/>
+
+<option name="SHOW_STATIC_VARS" value="true"/>
+
+<option name="WORKING_DIR" value=""/>
+
+<option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets"/>
+
+<option name="SHOW_OPTIMIZED_WARNING" value="true"/>
+
+</Native>
+
+
+-<Profilers>
+
+<option name="ADVANCED_PROFILING_ENABLED" value="false"/>
+
+<option name="STARTUP_CPU_PROFILING_ENABLED" value="false"/>
+
+<option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods"/>
+
+</Profilers>
+
+<option name="DEEP_LINK" value=""/>
+
+<option name="ACTIVITY_CLASS" value=""/>
+
+
+-<method v="2">
+
+<option name="Android.Gradle.BeforeRunTask" enabled="true"/>
+
+</method>
+
+</configuration>
+
+
+-<configuration name="Womenera [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+
+
+-<ExternalSystemSettings>
+
+<option name="executionName"/>
+
+<option name="externalProjectPath" value="$PROJECT_DIR$"/>
+
+<option name="externalSystemIdString" value="GRADLE"/>
+
+<option name="scriptParameters"/>
+
+
+-<option name="taskDescriptions">
+
+<list/>
+
+</option>
+
+
+-<option name="taskNames">
+
+
+-<list>
+
+<option value="signingReport"/>
+
+</list>
+
+</option>
+
+<option name="vmOptions"/>
+
+</ExternalSystemSettings>
+
+<GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+
+<method v="2"/>
+
+</configuration>
+
+
+-<recent_temporary>
+
+
+-<list>
+
+<item itemvalue="Gradle.Womenera [signingReport]"/>
+
+</list>
+
+</recent_temporary>
+
+</component>
+
+
+-<component name="SvnConfiguration">
+
+<configuration/>
+
+</component>
+
+
+-<component name="TaskManager">
+
+
+-<task id="Default" summary="Default task" active="true">
+
+<changelist name="Default Changelist" comment="" id="7d0692f7-4fa7-4444-8895-c9299f528c03"/>
+
+<created>1563203221577</created>
+
+<option name="number" value="Default"/>
+
+<option name="presentableId" value="Default"/>
+
+<updated>1563203221577</updated>
+
+</task>
+
+<servers/>
+
+</component>
+
+
+-<component name="ToolWindowManager">
+
+<frame extended-state="6" height="744" width="1382" y="-8" x="-8"/>
+
+<editor active="true"/>
+
+
+-<layout>
+
+<window_info id="Captures" weight="0.25" side_tool="true" order="0"/>
+
+<window_info id="Project" weight="0.22692889" order="1" visible="true" content_ui="combo"/>
+
+<window_info id="Structure" side_tool="true" order="2"/>
+
+<window_info id="Favorites" side_tool="true" order="3"/>
+
+<window_info id="Build Variants" side_tool="true" order="4"/>
+
+<window_info id="Image Layers" order="5"/>
+
+<window_info id="Designer" order="6"/>
+
+<window_info id="Resources Explorer" order="7"/>
+
+<window_info id="Capture Tool" order="8"/>
+
+<window_info id="Run" weight="0.3289689" order="0" anchor="bottom"/>
+
+<window_info id="Logcat" weight="0.5908347" order="1" anchor="bottom"/>
+
+<window_info id="TODO" order="2" anchor="bottom"/>
+
+<window_info id="Debug" order="3" anchor="bottom"/>
+
+<window_info id="Terminal" weight="0.3289689" order="4" anchor="bottom"/>
+
+<window_info id="Event Log" side_tool="true" order="5" anchor="bottom"/>
+
+<window_info id="Version Control" order="6" anchor="bottom"/>
+
+<window_info id="Build" weight="0.3289689" order="7" anchor="bottom"/>
+
+<window_info id="Android Profiler" order="8" anchor="bottom"/>
+
+<window_info id="Find" weight="0.3289689" order="9" anchor="bottom"/>
+
+<window_info id="Device File Explorer" weight="0.32980332" side_tool="true" order="0" anchor="right"/>
+
+<window_info id="Capture Analysis" order="1" anchor="right"/>
+
+<window_info id="Gradle" weight="0.32980332" order="2" anchor="right"/>
+
+<window_info id="Theme Preview" order="3" anchor="right"/>
+
+<window_info id="Preview" weight="0.2602118" order="4" anchor="right"/>
+
+<window_info id="Palette " order="5" anchor="right"/>
+
+</layout>
+
+
+-<layout-to-restore>
+
+<window_info id="Project" active="true" weight="0.24357034" order="0" visible="true" content_ui="combo"/>
+
+<window_info id="Structure" side_tool="true" order="1"/>
+
+<window_info id="Favorites" side_tool="true" order="2"/>
+
+<window_info id="Image Layers" order="3"/>
+
+<window_info id="Designer" order="4"/>
+
+<window_info id="Capture Tool" order="5"/>
+
+<window_info id="Build Variants" side_tool="true" order="6"/>
+
+<window_info id="Resources Explorer" order="7"/>
+
+<window_info id="Captures" weight="0.25" side_tool="true" order="8"/>
+
+<window_info id="Run" order="0" anchor="bottom"/>
+
+<window_info id="TODO" order="1" anchor="bottom"/>
+
+<window_info id="Logcat" order="2" anchor="bottom"/>
+
+<window_info id="Debug" order="3" anchor="bottom"/>
+
+<window_info id="Terminal" order="4" anchor="bottom"/>
+
+<window_info id="Event Log" side_tool="true" order="5" anchor="bottom"/>
+
+<window_info id="Version Control" order="6" anchor="bottom"/>
+
+<window_info id="Build" weight="0.3289689" order="7" anchor="bottom"/>
+
+<window_info id="Android Profiler" order="8" anchor="bottom"/>
+
+<window_info id="Device File Explorer" side_tool="true" order="0" anchor="right"/>
+
+<window_info id="Capture Analysis" order="1" anchor="right"/>
+
+<window_info id="Gradle" order="2" anchor="right"/>
+
+<window_info id="Theme Preview" order="3" anchor="right"/>
+
+<window_info id="Preview" weight="0.2730711" order="4" anchor="right"/>
+
+<window_info id="Palette " order="5" anchor="right"/>
+
+</layout-to-restore>
+
+</component>
+
+
+-<component name="editorHistoryManager">
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="102">
+
+<caret selection-end-line="6" selection-start-line="6" line="6"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="238">
+
+<caret selection-end-column="37" selection-end-line="14" selection-start-column="37" selection-start-line="14" column="37" line="14"/>
+
+
+-<folding>
+
+<element expanded="true" signature="e#633#651#0"/>
+
+</folding>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/widget/TextView.class">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="87">
+
+<caret selection-end-column="22" selection-end-line="385" selection-start-column="22" selection-start-line="385" column="22" line="385"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="221">
+
+<caret selection-end-column="18" selection-end-line="13" selection-start-column="18" selection-start-line="13" column="18" line="13"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/build.gradle">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="204">
+
+<caret selection-end-column="56" selection-end-line="12" selection-start-column="56" selection-start-line="12" column="56" line="12"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/google-services.json">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="374">
+
+<caret selection-end-column="11" selection-end-line="22" selection-start-column="11" selection-start-line="22" column="11" line="22"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/build.gradle">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="-20">
+
+<caret selection-end-line="2" selection-start-line="2" line="2"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/model/User.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="255">
+
+<caret selection-end-column="5" selection-end-line="15" selection-start-column="5" selection-start-line="15" column="5" line="15"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/MainActivity.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="340">
+
+<caret selection-end-column="12" selection-end-line="20" selection-start-column="12" selection-start-line="20" column="12" line="20"/>
+
+
+-<folding>
+
+<element expanded="true" signature="imports"/>
+
+</folding>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/ProductModel.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="204">
+
+<caret selection-end-column="25" selection-end-line="12" selection-start-column="25" selection-start-line="12" column="25" line="12"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/product_list.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="85">
+
+<caret selection-end-column="49" selection-end-line="5" selection-start-column="49" selection-start-line="5" column="49" line="5"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/ProductsAdapter.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="393">
+
+<caret selection-end-column="34" selection-end-line="42" selection-start-column="34" selection-start-line="42" column="34" line="42"/>
+
+
+-<folding>
+
+<element expanded="true" signature="imports"/>
+
+<element expanded="true" signature="e#1608#1609#0"/>
+
+<element expanded="true" signature="e#1651#1652#0"/>
+
+</folding>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/Bags.java">
+
+<provider editor-type-id="text-editor" selected="true"/>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menswear.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="119">
+
+<caret selection-end-column="2" selection-end-line="7" selection-start-column="2" selection-start-line="7" column="2" line="7"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_mobiles.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="187">
+
+<caret selection-end-column="48" selection-end-line="11" selection-start-column="48" selection-start-line="11" column="48" line="11"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registe_user.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="357">
+
+<caret selection-end-column="36" selection-end-line="77" selection-start-column="36" selection-start-line="77" column="36" line="77"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_watches.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="136">
+
+<caret selection-end-column="48" selection-end-line="12" selection-start-column="4" selection-start-line="8" column="4" line="8"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/Watches.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="136">
+
+<caret selection-end-line="15" selection-start-line="15" line="15" lean-forward="true"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/RegisterUser.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="714">
+
+<caret selection-end-column="40" selection-end-line="54" selection-start-column="40" selection-start-line="54" column="40" line="54"/>
+
+
+-<folding>
+
+<element expanded="true" signature="imports"/>
+
+</folding>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="459">
+
+<caret selection-end-column="44" selection-end-line="27" selection-start-column="44" selection-start-line="27" column="44" line="27"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_womens_wear.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="204">
+
+<caret selection-end-column="48" selection-end-line="12" selection-start-column="48" selection-start-line="12" column="48" line="12"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/Mobiles.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="442">
+
+<caret selection-end-column="93" selection-end-line="33" selection-start-column="93" selection-start-line="33" column="93" line="33"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/m2.jpeg">
+
+<provider editor-type-id="images" selected="true"/>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/WomensWear.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="189">
+
+<caret selection-end-column="5" selection-end-line="28" selection-start-column="5" selection-start-line="28" column="5" line="28"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/Home.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="17">
+
+<caret selection-end-column="25" selection-end-line="30" selection-start-column="25" selection-start-line="30" column="25" line="30"/>
+
+
+-<folding>
+
+<element expanded="true" signature="imports"/>
+
+</folding>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+
+<provider editor-type-id="android-manifest"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="306">
+
+<caret selection-end-column="19" selection-end-line="18" selection-start-column="19" selection-start-line="18" column="19" line="18"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_products.xml">
+
+<provider editor-type-id="android-designer2"/>
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="204">
+
+<caret selection-end-column="46" selection-end-line="19" selection-start-column="46" selection-start-line="19" column="46" line="19"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+
+-<entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/womenera/Products.java">
+
+
+-<provider editor-type-id="text-editor" selected="true">
+
+
+-<state relative-caret-position="70">
+
+<caret selection-end-column="5" selection-end-line="84" selection-start-column="5" selection-start-line="84" column="5" line="84" lean-forward="true"/>
+
+</state>
+
+</provider>
+
+</entry>
+
+</component>
+
+</project>
